@@ -16,3 +16,10 @@ Un restaurante japonés ofrece una experiencia culinaria basada en la frescura, 
 - Cerveza Japonesa: Marcas populares como Asahi, Sapporo o Kirin.
 - Shochu: Licor destilado a base de cebada, batata o arroz.
 - Agua con Gas: Refrescante y ligera.
+
+# Consejos
+- Usa los palillos correctamente y evita clavarlos en el arroz, ya que es un gesto culturalmente inapropiado.
+- Prueba el sushi con un poco de wasabi y salsa de soya, pero no sumerjas el arroz en la salsa.
+- Disfruta del sake como acompañamiento o como aperitivo.
+- Si no estás familiarizado con los platos, pide un menú degustación para probar una variedad.
+- Respeta la presentación de los platos; la estética es una parte importante de la comida japonesa.
