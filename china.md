@@ -19,3 +19,6 @@
 -(Bubble tea)
 -(Cerveza Tsingtao)
 -(Wang Lao Ji)
+
+# Consejos
+Para una experiencia auténtica en un restaurante chino, sigue estos consejos: presta atención a la etiqueta en la mesa, como probar un poco de cada plato y ofrecer primero a los mayores o invitados
