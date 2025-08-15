@@ -29,3 +29,7 @@ Cócteles:
 Clásicos como el mojito (ron, menta, limón, azúcar, soda), la margarita (tequila, naranja, limón), y cócteles con base de whisky o vodka son opciones populares. 
 Destilados:
 Vodka, ginebra, ron, whisky y tequila son básicos para la preparación de cócteles. 
+
+consejos: 
+ Usa ingredientes frescos para mejores resultados.
+ Acompaña con pan artesanal para una experiencia completa.
