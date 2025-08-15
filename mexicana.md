@@ -17,3 +17,10 @@ Un restaurante mexicano ofrece una experiencia vibrante y llena de sabor, caract
 - Mezcal: Licor artesanal con un sabor ahumado único.
 - Aguas Frescas: Bebidas naturales de frutas como jamaica, tamarindo o horchata.
 - Cerveza Mexicana: Marcas populares como Corona, Modelo o Pacífico.
+
+# Consejos
+- Acompaña tus platos con salsas, pero prueba primero el nivel de picante.
+- No te pierdas los antojitos como guacamole, quesadillas o elotes.
+- Disfruta de los postres tradicionales como flan, churros o tres leches.
+- Pregunta por las especialidades regionales, ya que la cocina mexicana varía mucho según la región.
+- Comparte varios platos para probar una mayor variedad de sabores.
