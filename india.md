@@ -9,3 +9,10 @@ Un restaurante indio ofrece una explosión de sabores y aromas únicos, caracter
 - Paneer Tikka Masala: Cubos de queso paneer en una rica salsa especiada.
 - Rogan Josh: Cordero cocido a fuego lento en una salsa de tomate y especias.
 - Chole Bhature: Garbanzos especiados servidos con pan frito.
+
+# Bebidas
+- Lassi: Bebida a base de yogur, dulce o salada, a menudo con mango.
+- Chai: Té negro con especias como cardamomo, canela y jengibre.
+- Agua de Coco: Refrescante y natural.
+- Cerveza India: Marcas populares como Kingfisher.
+- Vinos: Selección de vinos locales o internacionales.
