@@ -16,3 +16,10 @@ Un restaurante indio ofrece una explosión de sabores y aromas únicos, caracter
 - Agua de Coco: Refrescante y natural.
 - Cerveza India: Marcas populares como Kingfisher.
 - Vinos: Selección de vinos locales o internacionales.
+
+ # Consejos
+- Ajusta el nivel de picante según tu preferencia; muchos platos pueden ser intensos.
+- Prueba los panes tradicionales como naan o paratha para acompañar los curries.
+- No te pierdas los postres como gulab jamun o kulfi para cerrar la comida.
+- Comparte varios platos para disfrutar de una mayor variedad de sabores.
+- Pregunta por las especialidades de la casa o platos regionales únicos.
