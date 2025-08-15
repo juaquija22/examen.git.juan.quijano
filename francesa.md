@@ -17,3 +17,12 @@ un restaurante francés ofrece una experiencia culinaria refinada, destacándose
 - Café: Espresso, café au lait.
 - Licores: Cognac, Armagnac, Cointreau.
 - Agua Mineral: Evian, Perrier.
+ 
+
+ # consejos
+
+- Reserva con anticipación para garantizar tu mesa, especialmente en fines de semana o días festivos.
+- Pregunta por las recomendaciones del chef para disfrutar de los platos más destacados del día.
+- Acompaña tu comida con un vino recomendado por el sommelier para una experiencia completa.
+- Tómate tu tiempo para disfrutar de cada plato; la comida francesa se saborea lentamente.
+- No dudes en probar algo nuevo, como un plato o bebida que no conozcas.
