@@ -9,3 +9,11 @@ Un restaurante mexicano ofrece una experiencia vibrante y llena de sabor, caract
 - Enchiladas: Tortillas rellenas de pollo o queso, bañadas en salsa roja o verde.
 - Chiles en Nogada: Chiles poblanos rellenos de carne y frutas, cubiertos con salsa de nuez y granada.
 - Pozole: Sopa tradicional de maíz con carne, acompañada de lechuga, rábanos y limón.
+
+
+# Bebidas
+- Margarita: Cóctel a base de tequila, jugo de limón y licor de naranja.
+- Tequila: Bebida icónica de México, servida sola o en cócteles.
+- Mezcal: Licor artesanal con un sabor ahumado único.
+- Aguas Frescas: Bebidas naturales de frutas como jamaica, tamarindo o horchata.
+- Cerveza Mexicana: Marcas populares como Corona, Modelo o Pacífico.
