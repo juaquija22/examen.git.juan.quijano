@@ -16,3 +16,11 @@ Un restaurante vegetariano ofrece una experiencia culinaria basada en ingredient
 - Agua Infusionada: Agua con rodajas de frutas y hierbas como limón, pepino o albahaca.
 - Kombucha: Bebida fermentada con un toque ácido y refrescante.
 - Café Orgánico: Preparado con granos de cultivo sostenible.
+
+
+# Consejos
+- Explora platos que utilicen proteínas vegetales como tofu, tempeh o seitán.
+- Acompaña tus comidas con panes integrales o sin gluten, si es tu preferencia.
+- No te pierdas los postres veganos como brownies de cacao o helados de frutas.
+- Pregunta por las opciones del día, ya que muchos restaurantes vegetarianos trabajan con ingredientes de temporada.
+- Comparte platos para descubrir nuevas combinaciones de sabores y texturas.
