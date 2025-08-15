@@ -18,3 +18,14 @@ Ternera a la plancha:
 Cortes de carne de ternera cocinados en una plancha caliente, a menudo con hierbas y especias.
 Costillas de cerdo asadas:
 Costillas de cerdo marinadas y cocinadas lentamente en el horno o a la parrilla hasta que estén tiernas y jugosas.
+
+
+bebidad:
+Vinos:
+Una buena carta de vinos es fundamental, con opciones de tintos (Cabernet Sauvignon, Merlot, Malbec) y blancos (Chardonnay, Sauvignon Blanc) para maridar con diferentes cortes de carne, según restaurantes de carnes. 
+Cervezas:
+Se recomienda tener una variedad de cervezas, incluyendo opciones nacionales e internacionales, tanto lager como cervezas artesanales, según sitios especializados. 
+Cócteles:
+Clásicos como el mojito (ron, menta, limón, azúcar, soda), la margarita (tequila, naranja, limón), y cócteles con base de whisky o vodka son opciones populares. 
+Destilados:
+Vodka, ginebra, ron, whisky y tequila son básicos para la preparación de cócteles. 
