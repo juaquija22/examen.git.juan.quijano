@@ -9,3 +9,10 @@ Un restaurante mediterráneo ofrece una experiencia culinaria basada en ingredie
 - Ratatouille: Guiso de vegetales como berenjenas, calabacines, pimientos y tomates.
 - Pescado a la Parrilla: Pescados frescos marinados con hierbas y limón.
 - Cordero al Horno: Cordero cocido lentamente con especias y vegetales.
+
+# Bebidas
+- Vino Tinto: Variedades mediterráneas como Tempranillo, Garnacha o Chianti.
+- Vino Blanco: Sauvignon Blanc o Verdejo, ideales para acompañar pescados.
+- Sangría: Bebida refrescante a base de vino, frutas y un toque de licor.
+- Limonada Casera: Refrescante y natural, con un toque de menta.
+- Café Espresso: Perfecto para cerrar la comida.
