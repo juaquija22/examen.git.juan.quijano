@@ -1,10 +1,9 @@
-titulo:
-carnes
+# titulo: carnes
 
-descripcion:
+# descripcion:
 el tipo de carne (res, cerdo, pollo, etc.), el corte específico (lomo, ribeye, solomillo, etc.), el término de cocción (azul, rojo inglés, medio, tres cuartos, bien cocido), y posibles acompañamientos o salsas. 
 
-platos principales:
+# platos principales:
 
 Bistec a la parrilla:
 Un corte de carne roja, como lomo fino o churrasco, cocinado a la parrilla con sal y pimienta.
@@ -20,7 +19,7 @@ Costillas de cerdo asadas:
 Costillas de cerdo marinadas y cocinadas lentamente en el horno o a la parrilla hasta que estén tiernas y jugosas.
 
 
-bebidad:
+# bebidad:
 Vinos:
 Una buena carta de vinos es fundamental, con opciones de tintos (Cabernet Sauvignon, Merlot, Malbec) y blancos (Chardonnay, Sauvignon Blanc) para maridar con diferentes cortes de carne, según restaurantes de carnes. 
 Cervezas:
@@ -30,6 +29,6 @@ Clásicos como el mojito (ron, menta, limón, azúcar, soda), la margarita (tequ
 Destilados:
 Vodka, ginebra, ron, whisky y tequila son básicos para la preparación de cócteles. 
 
-consejos: 
+# consejos: 
  Usa ingredientes frescos para mejores resultados.
  Acompaña con pan artesanal para una experiencia completa.
