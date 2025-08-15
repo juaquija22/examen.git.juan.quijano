@@ -9,3 +9,13 @@
 -Chop Suey: Un plato salteado que puede incluir carne (pollo, cerdo, ternera), verduras y salsa. 
 -Chow Mein: Fideos salteados con diversos ingredientes como carne, pollo, verduras y salsa. 
 -Hot Pot: Un plato en el que se cocina una variedad de ingredientes en un caldo caliente. 
+
+# bebidad
+-(Wahaha)
+-(Wang Zai Niu Nai)
+-(Cocacola)
+-(Yeshupai Yezi)
+-(Kangshifu Bing Hong Cha)
+-(Bubble tea)
+-(Cerveza Tsingtao)
+-(Wang Lao Ji)
