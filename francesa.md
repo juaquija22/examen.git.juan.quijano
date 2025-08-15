@@ -9,3 +9,11 @@ un restaurante francés ofrece una experiencia culinaria refinada, destacándose
 - Cassoulet: Guiso de alubias blancas con carne de cerdo, salchichas y pato confitado.
 - Ratatouille: Mezcla de vegetales como berenjenas, calabacines, pimientos y tomates cocidos lentamente.
 - Magret de Canard: Pechuga de pato asada, a menudo servida con salsas dulces o frutas.
+
+# bebidad
+
+- Vinos Blancos: Chardonnay, Sauvignon Blanc, Riesling.
+- Champagne: Espumoso clásico francés.
+- Café: Espresso, café au lait.
+- Licores: Cognac, Armagnac, Cointreau.
+- Agua Mineral: Evian, Perrier.
