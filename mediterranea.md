@@ -16,3 +16,10 @@ Un restaurante mediterráneo ofrece una experiencia culinaria basada en ingredie
 - Sangría: Bebida refrescante a base de vino, frutas y un toque de licor.
 - Limonada Casera: Refrescante y natural, con un toque de menta.
 - Café Espresso: Perfecto para cerrar la comida.
+
+ # Consejos
+- Comparte varios platos para disfrutar de la diversidad de sabores mediterráneos.
+- Acompaña tus comidas con pan fresco y aceite de oliva de alta calidad.
+- No te pierdas los postres como baklava, tiramisú o panna cotta.
+- Pregunta por los pescados frescos del día, una especialidad en muchos restaurantes mediterráneos.
+- Disfruta de la comida con calma, siguiendo el estilo de vida relajado de la región.
