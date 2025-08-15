@@ -9,3 +9,10 @@ Un restaurante vegetariano ofrece una experiencia culinaria basada en ingredient
 - Ensalada de Quinoa: Mezcla de quinoa, aguacate, tomate, pepino y aderezo de limón.
 - Hamburguesa Vegetal: Hecha con lentejas, garbanzos o frijoles negros, acompañada de pan integral.
 - Tacos de Coliflor: Tortillas rellenas de coliflor asada con especias, aguacate y salsa.
+
+# Bebidas
+- Smoothies: Bebidas a base de frutas frescas, espinacas o kale.
+- Té de Hierbas: Infusiones naturales como manzanilla, menta o jengibre.
+- Agua Infusionada: Agua con rodajas de frutas y hierbas como limón, pepino o albahaca.
+- Kombucha: Bebida fermentada con un toque ácido y refrescante.
+- Café Orgánico: Preparado con granos de cultivo sostenible.
