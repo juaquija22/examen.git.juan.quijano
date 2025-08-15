@@ -9,3 +9,10 @@ Un restaurante japonés ofrece una experiencia culinaria basada en la frescura, 
 - Ramen: Sopa de fideos con caldo, carne, huevo y vegetales.
 - Tempura: Mariscos o vegetales fritos en una ligera capa de masa.
 - Teriyaki: Carne o pescado glaseado con una salsa dulce de soya.
+
+ # bebidas
+- Sake: Vino de arroz tradicional japonés, servido frío o caliente.
+- Té Verde: Bebida clásica, ideal para acompañar cualquier comida.
+- Cerveza Japonesa: Marcas populares como Asahi, Sapporo o Kirin.
+- Shochu: Licor destilado a base de cebada, batata o arroz.
+- Agua con Gas: Refrescante y ligera.
